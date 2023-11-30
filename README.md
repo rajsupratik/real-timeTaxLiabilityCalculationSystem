@@ -1,7 +1,6 @@
 # real-timeTaxLiabilityCalculationSystem
 The real-time tax liability calculation system is an advanced financial technology solution,
 providing users with immediate insights into their tax obligations. This innovative software tracks financial transactions in real-time, applying dynamic tax rates for instantaneous updates on tax liabilities. 
-Certainly! Here's a README file for the provided Python script:
 
 ---
 
